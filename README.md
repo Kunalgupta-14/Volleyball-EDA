@@ -35,4 +35,6 @@ Each player has various performance metrics associated with their position:
 ## Basic Court Diagram
 
 Here is a basic diagram of volleyball player positions on the court:
+![image](https://github.com/user-attachments/assets/96a89145-db2a-4622-8ed0-95fe35e7e3c9)
+
 
